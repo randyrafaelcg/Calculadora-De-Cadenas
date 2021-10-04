@@ -1,4 +1,5 @@
 function Calcular(numeros) {
+  let deli='//\n'
   let delimitador=/[,-]+/;
   let list=numeros.split(delimitador);
   let resp=0;

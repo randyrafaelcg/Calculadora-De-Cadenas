@@ -1,7 +1,23 @@
-1. Sumar 2 numeros ingresados por usuario
+1. Convertir un string con un numero ingresado por el usuario a numero
+
+como usuario 
+quiero introducir un numero 
+para interactuar con la aplicacion
+
+El numero ingresado leido como string debe pasar la prueba de control
+
+2. Sumar 2 numeros ingresados por usuario separados por una coma
 
 Como usuario
 quiero realizar una suma de dos numeros
 para conocer el resultado exacto
 
-2. Sumar 2 numeros 
+se debe devolver la suma de los dos numeros ingresados por el usuario separados por una coma
+
+3. Sumar mas de 2 numeros ingresados separados por comas
+
+como usuario
+quiero ingresar mas de 2 numeros
+para realizar sumas mas complejas
+
+debe devolver la suma de todos los numeros ingresados por el usuario separados por comas
