@@ -1,7 +1,8 @@
-import sumar from "./App.js";
+import Calcular from "./App.js";
 
-describe("Sumar", () => {
-  it("deberia sumar dos numeros", () => {
-    expect(sumar(3, 2)).toEqual(5);
+describe("Calcular", () => {
+  it("deberia convertir el string en un numero", () => {
+    expect(Calcular("3")).toEqual(3);
   });
+  
 });

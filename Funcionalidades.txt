@@ -1,0 +1,7 @@
+1. Sumar 2 numeros ingresados por usuario
+
+Como usuario
+quiero realizar una suma de dos numeros
+para conocer el resultado exacto
+
+2. Sumar 2 numeros 
