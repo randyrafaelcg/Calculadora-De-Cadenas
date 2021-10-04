@@ -21,3 +21,19 @@ quiero ingresar mas de 2 numeros
 para realizar sumas mas complejas
 
 debe devolver la suma de todos los numeros ingresados por el usuario separados por comas
+
+4. Sumar los numeros ingresados por el usuario separado por diferentes caracteres
+
+como usuario
+quiero ingresar numeros separados por distintos caracteres
+para sumarlos de forma personalizada
+
+devolver la suma unicamente de los numeros
+
+5. Solo sumar numeros que sean menores de 1000
+
+como usuario 
+quiero sumar unicamente los numeros que sean menores a 1000
+para 
+
+Retornar la suma de los numeros ingresados ignorando aquerllos que sena menores a 1000
