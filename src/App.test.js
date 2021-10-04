@@ -10,4 +10,7 @@ describe("Calcular", () => {
   it("deberia sumar mas de 2 numeros de un string separados por una coma", () => {
     expect(Calcular("3,2,5")).toEqual(10);
   });
+  it("deberia sumar mas de 2 numeros de un string separados por guiones", () => {
+    expect(Calcular("3-2-5")).toEqual(10);
+  });
 });
